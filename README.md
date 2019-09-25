@@ -39,3 +39,7 @@ is voted on and approved by the Apache ZooKeeper PMC:
 We always welcome new contributors to the project! See [How to Contribute](https://cwiki.apache.org/confluence/display/ZOOKEEPER/HowToContribute) for details on how to submit patch through pull request and our contribution workflow.
 
 
+#Using on win10
+add slf4j-api-1.7.25.jar,  slf4j-log4j12-1.7.25.jar,  zookeeper-3.4.0.jar,  log4j-1.2.17.jar by yourself
+
+
